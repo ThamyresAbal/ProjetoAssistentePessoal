@@ -1,0 +1,50 @@
+[
+    {
+        "pais": "br",
+        "nome": "Ibovespa",
+        "porcentagem": "+0,63%",
+        "valor": "97.821 pts"
+    },
+    {
+        "pais": "us",
+        "nome": "D\u00f3lar",
+        "porcentagem": "-0,13%",
+        "valor": "R$ 3,88"
+    },
+    {
+        "pais": "us",
+        "nome": "Nasdaq",
+        "porcentagem": "+1,66%",
+        "valor": "7.742 pts"
+    },
+    {
+        "pais": "br",
+        "nome": "IFIX",
+        "porcentagem": "+0,29%",
+        "valor": "2.568 pts"
+    },
+    {
+        "pais": "eu",
+        "nome": "Euro",
+        "porcentagem": "+0,21%",
+        "valor": "R$ 4,39"
+    },
+    {
+        "pais": "br",
+        "nome": "CDI",
+        "porcentagem": "6,40%",
+        "valor": " a.a."
+    },
+    {
+        "pais": "br",
+        "nome": "Poupan\u00e7a",
+        "porcentagem": "0,37%",
+        "valor": " a.m."
+    },
+    {
+        "pais": "bt",
+        "nome": "BITCOIN",
+        "porcentagem": "-2,06%",
+        "valor": "R$ 30.877"
+    }
+]
